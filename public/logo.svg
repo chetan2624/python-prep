@@ -1,0 +1,13 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M70.19 19.38C61.42 10.61 46.58 10.61 37.81 19.38C35.07 22.12 33.15 25.47 32.06 29.06L15.31 45.81C10.74 50.38 10.74 57.8 15.31 62.37L22.63 69.69C27.2 74.26 34.62 74.26 39.19 69.69L42.54 66.34C46.13 65.25 49.48 63.33 52.22 60.59C61 51.81 61 36.97 52.22 28.2L70.19 19.38Z" fill="url(#rocket_grad)" />
+  <path d="M37.81 19.38C46.58 10.61 61.42 10.61 70.19 19.38" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M22.63 69.69L11.5 80.81C10.43 81.89 10.43 83.63 11.5 84.7C12.57 85.78 14.31 85.78 15.39 84.7L26.51 73.57" stroke="white" stroke-width="3" stroke-linecap="round" />
+  <path d="M42.54 66.34L31.41 77.47C30.34 78.54 30.34 80.28 31.41 81.36C32.49 82.43 34.23 82.43 35.31 81.36L46.43 70.23" stroke="white" stroke-width="3" stroke-linecap="round" />
+  <circle cx="45" cy="35" r="5" fill="#0EA5E9" />
+  <defs>
+    <linearGradient id="rocket_grad" x1="15" y1="15" x2="85" y2="85" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4F46E5" />
+      <stop offset="1" stop-color="#9333EA" />
+    </linearGradient>
+  </defs>
+</svg>
